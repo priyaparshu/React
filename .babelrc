@@ -1,0 +1,10 @@
+//config for babel to use env and react presets
+{
+  "presets": [
+    "env",
+    "react"
+  ],
+  "plugins": [
+    "transform-class-properties"
+  ]
+}
