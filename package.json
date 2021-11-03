@@ -14,7 +14,7 @@
     "babel-plugin-transform-class-properties": "6.24.1",
     "babel-preset-env": "1.5.2",
     "babel-preset-react": "6.24.1",
-    "validator": "^8.0.0",
+    "validator": "^13.7.0",
     "webpack": "^4.41.2",
     "webpack-dev-server": "^3.9.0"
   },
